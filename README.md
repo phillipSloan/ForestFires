@@ -1,5 +1,5 @@
 # Forest-Fires
-First graded assignment for COMSM1201 - Programming in C - Final Grade 72%
+First graded assignment for COMSM1201 - Programming in C
 
 Creates a simple simulation of a Forest Fire in terminal.  Assessing knowledge of 2D Arrays.
 
